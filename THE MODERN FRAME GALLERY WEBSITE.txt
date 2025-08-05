@@ -1,0 +1,26 @@
+THE MODERN FRAME GALLERY WEBSITE
+=====================================
+
+Student Name: Jaden Daniel
+Course: Full Stack
+Project: Modern Frame Gallery Static Website
+
+IMPLEMENTED FEATURES:
+====================
+
+HTML Structure & Elements:
+- ✅ Proper DOCTYPE and semantic HTML5 structure
+- ✅ All required pages: index.html, gallery.html, about.html, contact.html
+- ✅ Complete navigation menu with internal linking
+- ✅ External link with target="_blank" and rel="noopener" (virtual tour)
+- ✅ 8+ images with proper alt attributes
+- ✅ HTML5 video element with controls
+- ✅ Ordered list (past exhibitions with custom counter styling)
+- ✅ Unordered list (gallery staff)
+- ✅ Table structure (contact hours with columns: Day, Opening Time, Closing Time)
+- ✅ Various text elements: headings (h1-h3), paragraphs, blockquote, strong/em
+- ✅ Meta tags including charset="UTF-8"
+
+CSS Techniques:
+- ✅ External stylesheet (css/style.css) linked to all pages
+- ✅ Multiple selector types: element, class, ID, descendant sel
